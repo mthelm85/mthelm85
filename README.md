@@ -1,5 +1,5 @@
 # Matt Helm
-**Staff Research Engineer | Full-Stack Data Scientist**
+**Full-Stack Data Scientist | Staff Research Engineer**
 
 I build production-grade data and AI systems, taking ideas from research through deployment. My work focuses on optimization, analytics, and reliable software where correctness and scale matter.
 
