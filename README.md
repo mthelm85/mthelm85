@@ -7,7 +7,7 @@ I build production-grade data and AI systems, taking ideas from research through
 
 ## Focus
 - Agentic AI & tool-using systems (Model Context Protocol)
-- Production AI on **:contentReference[oaicite:0]{index=0}** and **:contentReference[oaicite:1]{index=1}**
+- Production AI on Azure and AWS
 - Open-source engineering in Julia
 
 ---
@@ -15,7 +15,7 @@ I build production-grade data and AI systems, taking ideas from research through
 ## Tech
 - **Languages**: Julia, Rust, JavaScript/TypeScript, Python, SQL, R  
 - **Expertise**: Optimization · Causal inference · Numerical methods · Simulation  
-- **Tools**: Git · **:contentReference[oaicite:2]{index=2} Actions · Docker · WASM
+- **Tools**: Git · GitHub Actions · Docker · WASM
 
 ---
 
