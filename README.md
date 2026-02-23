@@ -15,7 +15,7 @@ I build and deploy production-ready data and AI systems, combining analytics, op
 
 ## Tech
 - **Languages**: Julia, Rust, JavaScript/TypeScript, Python, SQL, R  
-- **Expertise**: Optimization · Causal inference · Numerical methods · Simulation  
+- **Expertise**: Optimization · Simulation & modeling · Causal inference · Numerical methods · Data engineering
 - **Tools**: Git · GitHub Actions · Docker · WASM
 
 ---
