@@ -1,14 +1,15 @@
 # Matt Helm
-**Full-Stack Data Scientist | Staff Research Engineer**
+**Staff Research Engineer | Full-Stack Data Scientist**
 
-I build production-grade data and AI systems, taking ideas from research through deployment. My work focuses on optimization, analytics, and reliable software where correctness and scale matter.
+I build and deploy production-ready data and AI systems, combining analytics, optimization, and reliable software engineering. I focus on solving complex problems at scale with accuracy and maintainability.
 
 ---
 
 ## Focus
-- Agentic AI & tool-using systems (Model Context Protocol)
-- Production AI on Azure and AWS
-- Open-source engineering in Julia
+- Production AI systems and tool-using agents  
+- Optimization, simulation, and causal analysis  
+- High-performance data pipelines and open-source Julia tooling  
+- Cloud deployment on Azure and AWS
 
 ---
 
