@@ -24,7 +24,7 @@ I build and deploy production-ready data and AI systems, combining analytics, op
 - **CheckMate.jl** — data validation & integrity rules  
 - **TerraStat.jl** — geospatial labor & economic data tooling  
 - **PlutoDataTable.jl** — interactive tables for Pluto.jl  
-- **CurrentPopulationSurvey.jl** — high-performance Census/BLS microdata parsing
+- **RDF.jl** — a W3C-comlpliant Resource Description Framework library
 
 ---
 
