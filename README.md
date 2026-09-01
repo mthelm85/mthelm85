@@ -1,7 +1,7 @@
 # Matt Helm
 **Full-Stack Data Scientist | Staff Research Engineer**
 
-I build and deploy production-ready data and AI systems, combining analytics, optimization, and reliable software engineering. I focus on solving complex problems at scale with accuracy and maintainability.
+I design and build high-performance data systems, semantic web infrastructure, and production AI tools. My work combines solid software engineering with rigorous statistical modeling and domain-specific open-source tooling.
 
 ---
 
@@ -14,16 +14,16 @@ I build and deploy production-ready data and AI systems, combining analytics, op
 ---
 
 ## Tech
-- **Languages**: Julia, Rust, JavaScript/TypeScript, Python, SQL, R  
-- **Expertise**: Optimization · Simulation & modeling · Causal inference · Numerical methods · Data engineering
-- **Tools**: Git · GitHub Actions · Docker · WASM
+* **Languages**: Julia, Rust, JavaScript/TypeScript, SQL, Python, R
+* **Architecture & Systems**: Knowledge Graphs (RDF/SPARQL/JSON-LD), Local LLM Workflows (MCP/Ollama), Web Apps (SvelteKit, Node.js), Embedded/Local Analytics (DuckDB)
+* **Engineering Practice**: Data Validation & Integrity, Causal Inference, Numerical Methods, High-Performance Data Pipelines, Containerization (Docker), WASM
 
 ---
 
 ## Open Source
+- **DataMimic.jl** — generate synthetic data based on real data, with differential privacy
+- **MaterialDocs.jl** — a Julia documentation package based on Material Design 3  
 - **CheckMate.jl** — data validation & integrity rules  
-- **TerraStat.jl** — geospatial labor & economic data tooling  
-- **PlutoDataTable.jl** — interactive tables for Pluto.jl  
 - **RDF.jl** — a W3C-comlpliant Resource Description Framework library
 
 ---
