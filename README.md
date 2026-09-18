@@ -1,31 +1,35 @@
 # Matt Helm
-**Full-Stack Data Scientist | Staff Research Engineer**
+**Senior Data Scientist | AI & Data Systems Architect**
 
-I design and build high-performance data systems, semantic web infrastructure, and production AI tools. My work combines solid software engineering with rigorous statistical modeling and domain-specific open-source tooling.
+Applied economist and senior data scientist with 10+ years of experience architecting secure AI/ML systems, designing production data pipelines, and building policy-grade analytics for enterprise mission programs. My work bridges statistical modeling, software engineering, and domain-specific open-source tooling.
 
 ---
 
 ## Focus
-- Production AI systems and tool-using agents  
-- Optimization, simulation, and causal analysis  
-- High-performance data pipelines and open-source Julia tooling  
-- Cloud deployment on Azure and AWS
+- **AI/ML & Knowledge Systems**: GraphRAG, local LLM architectures (Ollama/MCP), vector search, and RDF knowledge graphs
+- **Advanced Analytics**: Microdata analysis, state-space forecasting, Monte Carlo simulation, risk scoring, and causal inference
+- **Data Engineering**: Enterprise ETL/ELT pipelines, entity resolution at scale, data validation, and metadata lineage
+- **Cloud Infrastructure**: Secure cloud analytics deployment on AWS (ECS, RDS, ALB) and Azure using Docker and Terraform
 
 ---
 
 ## Tech
-* **Languages**: Julia, Rust, JavaScript/TypeScript, SQL, Python, R
-* **Architecture & Systems**: Knowledge Graphs (RDF/SPARQL/JSON-LD), Local LLM Workflows (MCP/Ollama), Web Apps (SvelteKit, Node.js), Embedded/Local Analytics (DuckDB)
-* **Engineering Practice**: Data Validation & Integrity, Causal Inference, Numerical Methods, High-Performance Data Pipelines, Containerization (Docker), WASM
+
+* **Languages**: Julia (Expert), Python, R, SQL, Rust, JavaScript/TypeScript
+* **AI & Knowledge Graphs**: GraphRAG, RAG, Ollama, LangChain, LanceDB, RDF/SPARQL/JSON-LD, Semantic Search
+* **Data Systems & Engineering**: Automated Pipelines, CheckMate.jl, DuckDB, BK-Trees / Entity Resolution, Git, Docker, Terraform
+* **Visualization & Analytics**: d3.js, Plotly.js, Power BI, Tableau, SvelteKit, Microdata Analysis (CPS/ACS), Econometrics
 
 ---
 
 ## Open Source
-- **DataMimic.jl** — generate synthetic data based on real data, with differential privacy
-- **MaterialDocs.jl** — a Julia documentation package based on Material Design 3  
-- **CheckMate.jl** — data validation & integrity rules  
-- **RDF.jl** — a W3C-comlpliant Resource Description Framework library
+
+- **DataMimic.jl** — Synthetic data generation based on administrative microdata with differential privacy rules
+- **CheckMate.jl** — Production data validation framework enforcing integrity rules across high-stakes pipelines
+- **RDF.jl** — W3C-compliant Resource Description Framework and SPARQL engine in pure Julia
+- **TerraStats.jl** — Tools for geospatial-economic data integration and analytics
+- **MaterialDocs.jl** — Julia documentation theme based on Material Design 3
 
 ---
 
-**Portfolio**: http://matthelm.pro
+**Portfolio**: [matthelm.pro](http://matthelm.pro) | **Contact**: mthelm85@gmail.com
