@@ -27,7 +27,6 @@ Applied economist and senior data scientist with 10+ years of experience archite
 - **DataMimic.jl** — Synthetic data generation based on administrative microdata with differential privacy rules
 - **CheckMate.jl** — Production data validation framework enforcing integrity rules across high-stakes pipelines
 - **RDF.jl** — W3C-compliant Resource Description Framework and SPARQL engine in pure Julia
-- **TerraStats.jl** — Tools for geospatial-economic data integration and analytics
 - **MaterialDocs.jl** — Julia documentation theme based on Material Design 3
 
 ---
